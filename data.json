@@ -1,0 +1,26 @@
+[
+  {
+    "id": "0a31f810-12cc-11ef-b1b4-1be089496bae",
+    "email": "s@gmail.com",
+    "pass": "543",
+    "role": "user"
+  },
+  {
+    "id": "1a3d57a0-12d0-11ef-8962-69e5d98a85f8",
+    "email": "a@gmail.com",
+    "pass": "123",
+    "role": "user"
+  },
+  {
+    "id": "60937290-12d3-11ef-ab03-c5f7bf98167e",
+    "email": "b@gmail.com",
+    "pass": "xyz",
+    "role": "user"
+  },
+  {
+    "id": "36ded810-12d6-11ef-b802-8325e5f8aa58",
+    "email": "ff@gmail.com",
+    "pass": "123",
+    "role": "user"
+  }
+]
